@@ -1,4 +1,5 @@
-# Project Proposal
+[Project proposal](https://github.com/iAmWillShepherd/CSCI-E-34/blob/master/README.md#project-proposal)
+
 # Project proposal
 
 Tl;dr 
