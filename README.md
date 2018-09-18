@@ -66,7 +66,7 @@ The expected number of people who will use the app initially can be counted on t
 | Athlete | 5        | All people who want to train      |
 | Client  | 2        | All people who want to be trained |
 
-_ All = % of world population, with a phone and access to the internet, and wants to train_
+_All = % of world population, with a phone and access to the internet, and wants to train_
 
 Each interaction with the app is likely to be less than 30 second unless the app is being used with a timed workout. Non-trainers would mostly use the app during their workouts, so it will not be an integral part of their lives, nor would I want it to be.
 
