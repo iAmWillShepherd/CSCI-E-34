@@ -22,13 +22,9 @@ As we continued our talk, I started to get the feeling that personal trainers co
 - Most clients work full-time (aka 9-5) creating extreme demand to have sessions from 4PM to 7PM
 - The time demands of manually keeping each clients progress up to date
 
-At this point, it was clear that his main problem is a scheduling problem. Like with most scheduling systems you can improve throughput by varying the time it takes to complete a task or by having more things do a task. We can't clone my cousin, so that leaves only one thing to change. 
-
-
+At this point, it was clear that his main problem is a scheduling problem. Like with most scheduling systems you can improve throughput by varying the time it takes to complete a task or by having more things do a task. Since we can't clone my cousin, i'll have to focus on reducing time needed to build a program. 
 
 ## QA
-
-
 
 > What sort of users will use this system?
 
@@ -46,14 +42,14 @@ The table below describes the users of this solution
 
 The business problem that has the biggest impact to a trainer's bottom line is client count, which is constrained by time. My hypothesis is that decreasing the amount of time spent managing client progress will increase the number of clients a trainer can take on. 
 
-The problem I will focus on for athletes is loss of data. Notebooks are prone to be lost, especially after an intense workout. That along with the generally inconveniences of having to carry pen **and** paper around the gym and trying to log  progress without a decent writing surface.
+The problem I will focus on for athletes is loss of data. Notebooks are prone to be lost, especially after an intense workout, and is generally inconvenient having to carry around pen and paper  to log workout progress.
 
 
 
 > What would your users consider to be the characteristics of a good solution, or of a good pleasurable state?
 
-1. Tracking progress is **simple AF** - Gyms can be busy environment and workout can often include a time component, so any good solution must support quickly logging progress too avoid derailing the workout.
-2. Creating and sharing a workout program is **seamless** - Since I am trying to solve for time, the experience of creating a program and getting it out to clients has to be less painful than the status quo
+1. Creating and sharing a workout program is **seamless** - Since I am trying to solve for time, the experience of creating a program and getting it out to clients has to be less painful than the status quo
+2. Tracking progress is **simple AF** - Gyms can be busy environment and workout can often include a time component, so any good solution must support quickly logging progress too avoid derailing the workout.
 3. Limited amount of required data entry - Workouts are typically pretty repetive so there is ample oppurtunity to off-load some amount of data entry.
 
 
@@ -70,9 +66,7 @@ The expected number of people who will use the app initially can be counted on t
 
 _All = % of world population, with a phone and access to the internet, and wants to train_
 
-Each interaction with the app is likely to be less than 30 second unless the app is being used with a timed workout. Non-trainers would mostly use the app during their workouts, so it will not be an integral part of their lives, nor would I want it to be.
-
-**Add notes about long term usage**
+Each interaction with the app is likely to be less than 30 second unless the app is being used with a timed workout. Non-trainers would mostly use the app during their workouts, so it will not be an integral part of their lives, nor do I expect it to be.
 
 
 
@@ -86,13 +80,17 @@ I'm trying to improve efficiency for trainers by removing as much manual data en
 
 > Tell me about the competitive landscape in your app’s market, and how yours will be better. What is your user's best alternative to using your app? 
 
-According to some cursory Google searches, [~58 million Americans have a gym membership](https://www.statista.com/statistics/236123/us-fitness-center--health-club-memberships/), [~8 million high school students play sports](https://www.nfhs.org/articles/high-school-sports-participation-increases-for-28th-straight-year-nears-8-million-mark/), and [~500 thousand college students play sports](http://www.ncaa.org/about/resources/research/probability-competing-beyond-high-school). According to my annecdotal experience, gym-goers range in age from 12 all the way up to 60 (I will eventually get actual stats assuming they are freely available).
+There are a lot of fitness tracker apps, none of the ones I've played with make it easy to create a workout program for yourself or others. 
+
+The best alternative I know of is a mixture of excel, paper, text-messages, and one of the general purpose tracking apps (for logging workout progress). 
+
+Most of the applications in this space deal with the business side of running a PT business such as, scheduling, marketing, promoting, etc. This application will focus on the value generation part of a trainer's job.
 
 
 
 > Write a paragraph or two discussing what you consider to be the essence of your project’s UX needs.
 
-**Answer**
+The trainer app needs to make creating and sharing workouts as simple and frictionless as possible. That means that the app needs has to be flexible enough to support arbitrary workout plans: trainers shouldn't have to jump through hoops to switch from a paper based program to this application. The client facing part of the app needs to make logging workout progress as quick as possible. So, the essence of my project's UX needs is ease of workout program creation and speed of logging workout progress.
 
 
 
@@ -102,7 +100,8 @@ All users would use a mixture of the web and mobile. My expectation is trainers 
 
 
 
->  What sort of environment will you use for the quick prototype that this term project requires? And what sort of development environment would you use to develop this system industrially, if that’s different?
+> What sort of environment will you use for the quick prototype that this term project requires? And what sort of development environment would you use to develop this system industrially, if that’s different?
 
 I assumed we were required to use Balsamiq. If that is no longer the case, perhaps I could use Sketch? I would likely use a basic text editor for the web app and Xamarin/Android/iOS for the mobile apps.
 
+Another line
