@@ -31,13 +31,14 @@ His usage of a double-ringed notebook is important because it means he can set h
 His smart scale is meant to show that he’s not afraid to use tech when it saves him time and that he measures by weight (more precise). This further re-enforces the structure in his life and his age. This may be agist, but I think most developers would assume a younger tech literate person would by a smart scale.
 
 ## Kim
-
+### Bio
 I chose the name Kimberley Johnson because I know someone with that name. Hopefully it communicates to the developers that she's a female.
 
 The tag line is supposed to show how committed she is to working out. She has a goal and will do whatever is needed to accomplish it. It's meant to convey to the developers that she could become a super user of the app.
 
 I chose to make the client/athlete a girl because most of the girls I know prefer to hire a personal trainer. Even though this is anecdotal, it still serves to let the developers know females will be using the app. She is a younger millenial, so she's lived over half her life in the internet age. The developers can use that info to infer that she is likely tech-savvy. Her education is meant to re-enforce her tech savvyness, provide a potential reason for desire to quanitify her life,  and show that she would appreciate sophisticated data analysis and visualization. I think this tells the developers that people are going to want to see their progress, not just track it.
 
+### Business domain info
 > Personal goal is to increase squat PR by 10% (current PR is 80KG)
 
 This conveys what her purpose in working out is. The devs should understand that most workout programs have an end-goal in mind.
@@ -50,4 +51,15 @@ Tells the developers that people are likely going to want to track their weight 
 
 I just wanted to re-enforce how much she enjoys working out.
 
-I think pointing out that she wears an Apple Watch highlights her interest in the latest tech. I chose the LTE model to indicate that she is always connected. The high-end weightlifting gear is meant to show that she is someone who takes weight training seriously. Her usage of IG conveys that she is a Millennial and likes to show-off a bit
+### Grokkability
+> Wears a stainless steel Apple Watch (w/GPS and LTE) with a red sport strap
+
+I wanted to show that she is a very tech forward person. I chose the LTE model here to indicate that she is always connected and that she owns an iPhone.
+
+> Owns a red Inzer lever belt with custom black lever, a pair of white Adidas Adipower weightlifting shoes, and SBD knee sleeves
+
+The high-end weightlifting gear is meant to show that she is someone who takes weight training seriously.
+
+> Loves to share the results of her progress on IG
+
+Her usage of IG conveys that she is a Millennial and likes to show-off a bit.
