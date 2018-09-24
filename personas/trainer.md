@@ -1,15 +1,16 @@
 # Trainer
 ### Bio
-Evan Jackson
-> Pain is weakness leaving the body
-Male
-30
-Some college (did not graduate)
+
+|  |  |
+|:--|:--|
+| Name | Evan Jackson |
+| Age | 34 |
+| Education | Some college; no degree |
+| Tag line | Pain is weakness leaving the body |
 
 ### Business domain
-230 pounds
-Favorite exercise is weighted pull-ups
-Has 8 consistent clients
+* Has 8 consistent clients
+* Workout plans have a large HIIT component
 
 ### Pet peeve
 Hates when clients cancel their sessions at the last possible moment because of _work running late_
