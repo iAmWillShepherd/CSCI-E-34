@@ -7,7 +7,7 @@
 | Age | 27 |
 | Education | Bachelor's in statistics and master's in computer science |
 | Occupation | ML expert for an up-and-coming search company |
-| Tag line |  |
+| Tag line | Make gains not excuses |
 
 ### Business domain
 * Personal goal is to increase squat PR by 10% (current PR is 80KG)
