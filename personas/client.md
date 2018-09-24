@@ -29,7 +29,6 @@ She quantifies every aspect of her life; she’s always trying to visualize her 
 
 ### Personal statement
 
-
 Hi there, my name is Kim and I spend a lot of my time trying to optimize things. I'm a busy gal and I like to do things as efficiently as possible and I hate repeating myself. I like to stay DRY, you know? I'm a relative newcomer to the fitness world. My older brother tried to get me to join him and his buddies when we were in highschool, but I didn't want to get big muscles. I wish I would have joined him, because now I love it! Also, I wish gaining muscle mass is as easy as I thought it would be. I've been hitting the gym at least 3 times a week for almost 5 years now and I've only gained three pounds of lean muscle mass! Turns out, growing muscle is incredibly difficult.
 
 I've been trying to figure out ways to optimize my muscle growth in my spare time for years. It's really just an excuse for me to produce some awesome data visualizations. I love uncovering patterns in the data I've produced over the past 5 years. Did you know, I burn 5% more calories when I run outside vs. running on a treadmill? Of course you didn't! and neither did I, until I crunched the numbers myself. Now I know I should favor running outside instead of the treadmill if I want to get the maximal results for my efforts. I love gaining actionable insights.
