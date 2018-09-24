@@ -23,6 +23,4 @@ She quantifies every aspect of her life; she’s always trying to visualize her 
 * Owns a red Inzer lever belt with custom black lever, a pair of white Adidas Adipower weightlifting shoes, and SBD knee sleeves
 * Loves to share the results of her progress on IG
 
-I think pointing out that she wears an Apple Watch highlights her interest in the latest tech. I chose the LTE model to indicate that she is always connected. The high-end weightlifting gear is meant to show that she is someone who takes weight training seriously. Her usage of IG conveys that she is a Millennial and likes to show-off a bit
-
 ### Personal statement
