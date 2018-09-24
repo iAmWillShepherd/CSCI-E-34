@@ -2,7 +2,7 @@
 
 ## Evan
 ### Bio
-I chose the name Evan Jackson because I used to workout with someone by that name. Hopefully it communicates to the developers that he's a man with a last name.
+I chose the name Evan Jackson because I used to workout with named Evan Jackson. Hopefully it communicates to the developers that he's a man with a last name.
 
 The tag line came from a t-shirt we saw one day while working out. It resonated with us both, so it's become a thing.
 
