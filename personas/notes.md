@@ -2,6 +2,8 @@
 
 ## Evan
 ### Bio
+I chose the picture becasuse he was holding today's state-of-the-art technology: the clipboard.
+
 I chose the name Evan Jackson because I used to workout with named Evan Jackson. Hopefully it communicates to the developers that he's a man with a last name.
 
 The tag line came from a t-shirt we saw one day while working out. It resonated with us both, so it's become a thing.
@@ -32,6 +34,8 @@ His smart scale is meant to show that he’s not afraid to use tech when it save
 
 ## Kim
 ### Bio
+I chose the picture because it shows her with her phone and headphones, which should convey that she likes tech and would feel at home using a phone to track her progress.
+
 I chose the name Kimberley Johnson because I know someone with that name. Hopefully it communicates to the developers that she's a female.
 
 The tag line is supposed to show how committed she is to working out. She has a goal and will do whatever is needed to accomplish it. It's meant to convey to the developers that she could become a super user of the app.
