@@ -3,13 +3,13 @@
 
 |  |  |
 |:--|:--|
-| Name | Kimberley Johnson |
+| Name | Kim Johnson |
 | Age | 27 |
 | Education | Bachelor's in statistics and master's in computer science |
 | Occupation | ML expert for an up-and-coming search company |
 | Tag line | Make gains not excuses |
 
-### Business domain
+### Business domain info
 * Personal goal is to increase squat PR by 10% (current PR is 80KG)
 * Currently weights 123lbs
 * Favorite exercise is squat
