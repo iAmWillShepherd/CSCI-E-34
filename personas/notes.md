@@ -1,5 +1,12 @@
-# Notes on personas
+William Shepherd
 
+CSCI E-34
+
+Homework 2
+
+TA: Irina
+
+# Notes on personas
 ## Evan
 ### Bio
 I chose the picture becasuse he was holding today's state-of-the-art technology: the clipboard.
