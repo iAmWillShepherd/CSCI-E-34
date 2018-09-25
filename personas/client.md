@@ -1,6 +1,9 @@
 William Shepherd
+
 CSCI E-34
+
 Homework 2
+
 TA: Irina
 
 # Athlete/Client
