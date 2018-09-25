@@ -1,3 +1,11 @@
+William Shepherd
+
+CSCI E-34
+
+Homework 2
+
+TA: Irina
+
 # Trainer
 ### Bio
 ![evan](https://image.shutterstock.com/z/stock-photo-handsome-african-american-male-trainer-with-clipboard-232351570.jpg)
