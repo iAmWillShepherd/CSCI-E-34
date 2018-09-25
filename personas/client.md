@@ -1,3 +1,8 @@
+William Shepherd
+CSCI E-34
+Homework 2
+TA: Irina
+
 # Athlete/Client
 ### Bio
 ![kim](https://image.shutterstock.com/z/stock-photo-active-girl-using-smartphone-in-fitness-gym-396425869.jpg)
