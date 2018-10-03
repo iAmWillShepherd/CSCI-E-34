@@ -8,7 +8,7 @@ TA: Irina
 
 # User interview
 
-These interviews are a compilation of my raw notes, the transcriptions of some of the stuff my interviewees said, and my summary of what was said. These are purposefully raw because I felt more effort should be put into summarizing the ~paint points~ opportunities they seemed more passionate about.
+These interviews are a compilation of my raw notes, the transcriptions of some of the stuff my interviewees said, and my summary of what was said. These are purposefully raw because I felt more effort should be put into summarizing the ~paint points~ opportunities they seemed more passionate about. I kept my followed up questions grouped with the questions that spurred them to make things a bit clearer.
 
 ## Reuben
 
