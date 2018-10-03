@@ -1,4 +1,4 @@
-## Stories
+# Stories
 
 1. reuben quickly sees the details for the last time he did that exercise.
 1. reuben is in the middle of his workout and can easily log his progress.
