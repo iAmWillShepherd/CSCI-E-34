@@ -25,7 +25,7 @@ His answers align most closely with my _Athlete_/_Client_ personas
 
 * What is the primary reason you don't keep track of your progress?
 
-> ...
+> It’s time consuming and a bit of a pain during a workout.
 
 * How would you prefer to track your workout progress?
 
@@ -33,11 +33,12 @@ His answers align most closely with my _Athlete_/_Client_ personas
 
 * Could you elaborate? What specifically would you like to avoid thinking about?
 
-> ...
+> I want to avoid remembering to write out everything I did during my workout. If my progress was tracked more automatically or maybe via voice logs, I would be more inclined to do it.
+
 
 * If you started tracking  your progress today, what are the primary insights you would like to gain after 3 months of tracking?
 
-> ...
+> Changes in body weight, body fat %, rep abilities, workout weight increases, maybe a correlation of sleep and workout success.
 
 ### Q2
 
@@ -47,7 +48,8 @@ His answers align most closely with my _Athlete_/_Client_ personas
 
 * How does it make you feel when you don't remember what you did the previous workout?
 
-> ...
+> It’s annoying but since I’m not truly competing for something, its not that big of a deal.
+
 
 ### Q3
 
@@ -67,17 +69,18 @@ His answers align most closely with my _Athlete_/_Client_ personas
 
 * What devices would you use to create your own workout routines?
 
-> ...
+> A smart watch or phone app. I wish there was app that walked you through a workout handsfree like a gps directs you places.
+
 
 ### Q5
 
 * Have you ever used a workout tracking application before?
 
-> ...
+> Yes I have
 
 * Do you still use the app (why or why not)?
 
-> ...
+> No it wasn’t as user friendly as I liked and hated having to get on my phone so often during a workout.
 
 ### Q6
 
@@ -87,4 +90,5 @@ His answers align most closely with my _Athlete_/_Client_ personas
 
 * How do you currently share your routines?
 
-> ...
+> via text or verbally.
+
