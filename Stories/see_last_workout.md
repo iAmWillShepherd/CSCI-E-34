@@ -1,4 +1,4 @@
-When getting ready to do an exercise, I can quickly see details for the last time I did the exercise.
+> When getting ready to do an exercise, I can quickly see details for the last time I did the exercise.
 
 roscoe is brought out of a trance state by his phone ringing. he looks down and sees it’s from his soon-to-be wife. it’s tax season and he’s juggling night-school, work, and wedding planning. work has kept him stressed for sure, he spent the day auditing his company’s finances. the _boss_ just told him he better get his share of the chores done tonight. he looks up, “shit, i’ma be late”, it’s 5:34! he intended to get to the gym by 6, so he could be home by 9. with houston traffic, he’d be lucky to make it by 6 even he teleported himself to his car.
 

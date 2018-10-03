@@ -1,4 +1,4 @@
-# Reuben
+## Reuben
 
 I decided to interview my workout partner, Reuben, since he met me in Jacksonville, FL this past weekend (for context, we both live in Houston, TX). I was unable to interview the trainer that works out of my gym because I was at in St. Louis attending StrangeLoop for work since last Sunday. I still intend to do an interview with the trainer sometime next week when both of our schedules allow for this.
 

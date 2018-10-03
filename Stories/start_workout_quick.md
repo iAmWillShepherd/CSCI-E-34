@@ -1,5 +1,5 @@
 
-When I pull out my phone to start my workout, I don't have to click through a bunch of options to start the day's workout
+> When I pull out my phone to start my workout, I don't have to click through a bunch of options to start the day's workout
 
 nola looks around the room at her teammates doing epic fist pumps after sucessfuly shipping a major redesign of her company’s most popular product. she’s had a hell of a day. her team is full of cowboys. they often wait until the last possible minute to get q.a. involved. she’s spent the past 3 days doing manual testing for the new features they are shipping. no one thought to bring her into the process sooner, so she could have drafted test plans and automated the newtests. oh well, it’s done now. stressed out, she tells her team she’s dipping out. the gym is beckoning.
 
