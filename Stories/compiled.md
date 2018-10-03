@@ -12,7 +12,7 @@ These interviews are a compilation of my raw notes, the transcriptions of some o
 
 ## Reuben
 
-I decided to interview my workout partner, Reuben, since he met me in Jacksonville, FL this past weekend (for context, we both live in Houston, TX). I was unable to interview the trainer that works out of my gym because I was at in St. Louis attending StrangeLoop for work since last Sunday. I still intend to do an interview with the trainer sometime next week when both of our schedules allow for this.
+I was unable to interview the people I intended to since I was out of town last week, so interviewed my workout partner, Reuben, since we were both in Jacksonville, FL this past weekend (for context, we both live in Houston, TX).
 
 ### Q0
 
@@ -178,7 +178,7 @@ Doesn't see any value coming back. Only wants to see what he needs to do for the
 
 # Long stories
 
-I decided to use pet names in the stories so I could have one of my stories feature a female character. I also purposefully did use capitalization. I wanted them to feel as informal as possible. Hopefully, it has the effect I intended 🤞
+I decided to use pet names in the stories so I could have one of my stories feature a female character.
 
 > Reuben quickly sees the details for the last time he did that exercise.
 
