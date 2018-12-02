@@ -37,7 +37,6 @@ The table below describes the users of this solution
 | Athlete | An athlete will design their own workout programs. They need to keep track of their personal progress in addition to making minor tweaks to the program over time. They are basically a trainer with themselves as a client. |
 
 
-
 > What sort of business problems will the users be trying to solve, or what sort of pleasurable state will they be trying to enter and maintain?
 
 The business problem that has the biggest impact to a trainer's bottom line is client count, which is constrained by time. My hypothesis is that decreasing the amount of time spent managing client progress will increase the number of clients a trainer can take on.
@@ -52,7 +51,6 @@ The pleasurable state I'd like clients to achieve is the ability to locate a tra
 1. Creating and sharing a workout program is **seamless** - Since I am trying to solve for time, the experience of creating a program and getting it out to clients has to be less painful than the status quo
 2. Tracking progress is **simple AF** - Gyms can be busy environment and workout can often include a time component, so any good solution must support quickly logging progress too avoid derailing the workout.
 3. Limited amount of required data entry - Workouts are typically pretty repetive so there is ample oppurtunity to off-load some amount of data entry.
-
 
 
 > What is the expected (hoped for) size of the user population? What is the expected frequency and duration of sessions per user?
@@ -91,8 +89,7 @@ Most of the applications in this space deal with the business side of running a 
 
 > Write a paragraph or two discussing what you consider to be the essence of your project’s UX needs.
 
-The trainer app needs to make creating and sharing workouts as simple and frictionless as possible. That means that the app needs has to be flexible enough to support arbitrary workout plans: trainers shouldn't have to jump through hoops to switch from a paper based program to this application. The client facing part of the app needs to make logging workout progress as quick as possible. So, the essence of my project's UX needs is ease of workout program creation and speed of logging workout progress.
-
+The trainer app needs to make creating and sharing workouts as simple and frictionless as possible for trainers and athletes. That means that the app needs has to be flexible enough to support arbitrary workout plans: they shouldn't have to jump through hoops to switch from a paper based program to this application. The client facing part of the app needs to make finding a trainer and signing up as seamless as possible and logging workout progress needs to be simple and quick. Clients and trainers may have a pre-existing relationship, but I will focus on those that do not have a pre-existing relationship with a trainer. This means there has to be an easy way for clients to search for and signup with a trainer.
 
 
 > On what sort of hardware and software will the users be using your application?
